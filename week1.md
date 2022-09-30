@@ -14,7 +14,6 @@
 
 1. [고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
 1. AI 이해 : `교안1-AI와 예술.pdf` (공유폴더)
-1. 전통금융과 핀테크: `교안1-01전통금융과핀테크.pdf` (공유폴더)
 1. 핀테크 포털: https://fintech.or.kr/web/user/main.do
    - `[한국핀테크지원센터] 핀테크 특화교재 『헬로, 핀테크!』`
 1. 인공지능 개발환경 구성
@@ -38,8 +37,8 @@
 
 강의:
 
-1. 인공지능과 윤리: `교안1-02인공지능윤리.pdf` (공유폴더)
-1. 산업계 인공지능 활용
+1. 리뷰: 가상환경과 쥬피터 노트북
+1. 전통금융과 핀테크: `교안1-01전통금융과핀테크.pdf` (공유폴더)
 1. 데이터 처리 실습:
    1. [NumPy 튜토리얼](notebooks/2-01NumPy-Tutorial.ipynb)
       - [NumPy Fundamental](https://numpy.org/doc/stable/user/basics.html) 도 함께 연습해 주세요!!!
