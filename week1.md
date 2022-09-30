@@ -38,35 +38,29 @@
 강의:
 
 1. 리뷰: 가상환경과 쥬피터 노트북
-1. 전통금융과 핀테크: `교안1-01전통금융과핀테크.pdf` (공유폴더)
-1. 데이터 처리 실습:
+   - 전통금융과 핀테크: `교안1-01전통금융과핀테크.pdf` (공유폴더)
+2. 데이터 처리 실습:
    1. [NumPy 튜토리얼](notebooks/2-01NumPy-Tutorial.ipynb)
       - [NumPy Fundamental](https://numpy.org/doc/stable/user/basics.html) 도 함께 연습해 주세요!!!
    1. [Pandas 기본: Series](notebooks/2-04PandasBasic_1_Series.ipynb)
    1. [Pandas 기본: DataFrame](notebooks/2-05PandasBasic_2_DataFrame.ipynb)
 
----
+3. 데이터 활용 서비스 스터디
 
-# 3
+   - [2-Pandas_Cookbook1-Indexing.ipynb](notebooks/2-Pandas_Cookbook1-Indexing.ipynb)
+   - [2-Pandas_Cookbook2-group.ipynb](notebooks/2-Pandas_Cookbook2-group.ipynb)
 
-인공지능 활용을 위한 금융데이터 :
 
-- 데이터 활용 서비스 스터디
-- 개인 신용정보로 만들어 보는 신용평가 서비스
+# 3. 머신러닝 소개
 
 1. `핀테크-1-2금융_핀테크_분야_AI동향.pdf` (공유폴더)
-1. 파이썬 기반 인공지능 기술
-
-   - 지도학습
-   - 비지도학습
-
+2. 파이썬 기반 인공지능 기술
    1. `교안3-01머신러닝-소개.pdf` (공유폴더)
    1. `교안3-AI시스템01-신경망_첫걸음(한빛)-원리와_오차연전파.pdf` (공유폴더)
 
-2. EDA와 지도학습
-   1. [첫번째 머신러닝 프로그램.ipynb](notebooks/3-01첫번째머신러닝1.ipynb)
+3. [첫번째 머신러닝 프로그램.ipynb](notebooks/3-01첫번째머신러닝1.ipynb)
       - 경사하강법 이해
-   1. EDA 소개 [Data Preprocessing for AI(sklearn).ipynb](<notebooks/3-02Data%20Preprocessing%20for%20AI(sklearn).ipynb>)
+4. EDA 소개 [Data Preprocessing for AI(sklearn).ipynb](<notebooks/3-02Data%20Preprocessing%20for%20AI(sklearn).ipynb>)
       - `3-01Data Preprocessing in 7 Steps with Python.pdf`(공유폴더)
       - data : [pima-indians-diabetes.data](data/pima-indians-diabetes.data)
-   1. EDA 실습 [EDA 실습-Diabetes 데이터](notebooks/3-02Diabetes1-EDA.ipynb)
+5. EDA 실습 [EDA 실습-Diabetes 데이터](notebooks/3-02Diabetes1-EDA.ipynb)
