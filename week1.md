@@ -22,7 +22,7 @@
    1. [Python과 과학계산 모듈](https://gist.github.com/qkboo/8f10b26dba2155e4eca5d50de37db0ec)
    2. [Python 3.x 윈도우즈 설치](https://gist.github.com/qkboo/06b29fb979c24fa45257e5a6a6e1599a)
    3. [pyenv-windows 설치](https://gist.github.com/qkboo/f4017234490e1f3fb7326c3b5dfebf40)
-   4. [JupyterNotebook.ipynb 실습](notebooks/01-01JupyterNotebook.ipynb)
+   4. [JupyterNotebook.ipynb 실습](notebooks/1-01JupyterNotebook.ipynb)
 
 ---
 
