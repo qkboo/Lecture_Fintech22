@@ -42,8 +42,8 @@
 2. 데이터 처리 실습:
    1. [NumPy 튜토리얼](notebooks/2-01NumPy-Tutorial.ipynb)
       - [NumPy Fundamental](https://numpy.org/doc/stable/user/basics.html) 도 함께 연습해 주세요!!!
-   1. [Pandas 기본: Series](notebooks/2-04PandasBasic_1_Series.ipynb)
-   1. [Pandas 기본: DataFrame](notebooks/2-05PandasBasic_2_DataFrame.ipynb)
+   1. [Pandas 기본: Series](notebooks/2-04Pandas_Series-0.ipynb)
+   1. [Pandas 기본: DataFrame](notebooks/2-05Pandas_DataFrame-0.ipynb)
 
 3. 데이터 활용 서비스 스터디
 
