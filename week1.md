@@ -40,7 +40,7 @@
 1. 리뷰: 가상환경과 쥬피터 노트북
    - 전통금융과 핀테크: `교안1-01전통금융과핀테크.pdf` (공유폴더)
 2. 데이터 처리 실습:
-   1. [NumPy 튜토리얼](notebooks/2-01NumPy-Tutorial.ipynb)
+   1. [NumPy 튜토리얼](notebooks/2-01NumPy-Tutorial-0.ipynb)
       - [NumPy Fundamental](https://numpy.org/doc/stable/user/basics.html) 도 함께 연습해 주세요!!!
    1. [Pandas 기본: Series](notebooks/2-04Pandas_Series-0.ipynb)
    1. [Pandas 기본: DataFrame](notebooks/2-05Pandas_DataFrame-0.ipynb)
