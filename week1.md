@@ -60,7 +60,3 @@
 
 3. [첫번째 머신러닝 프로그램.ipynb](notebooks/3-01첫번째머신러닝1.ipynb)
       - 경사하강법 이해
-4. EDA 소개 [Data Preprocessing for AI(sklearn).ipynb](<notebooks/3-02Data%20Preprocessing%20for%20AI(sklearn).ipynb>)
-      - `3-01Data Preprocessing in 7 Steps with Python.pdf`(공유폴더)
-      - data : [pima-indians-diabetes.data](data/pima-indians-diabetes.data)
-5. EDA 실습 [EDA 실습-Diabetes 데이터](notebooks/3-02Diabetes1-EDA.ipynb)
