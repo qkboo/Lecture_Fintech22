@@ -50,6 +50,12 @@
    - [2-Pandas_Cookbook1-Indexing.ipynb](notebooks/2-Pandas_Cookbook1-Indexing.ipynb)
    - [2-Pandas_Cookbook2-group.ipynb](notebooks/2-Pandas_Cookbook2-group.ipynb)
 
+4. 시각화
+
+   - [Matplotlib 시각화1](notebooks/3-시각화1-Matplotlib_1.ipynb)
+   - [Seaborn 시각화2](notebooks/3-시각화2-Seaborn_1.ipynb)
+
+---
 
 # 3. 머신러닝 소개
 
