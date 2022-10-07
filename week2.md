@@ -48,8 +48,8 @@
 사용한 `데이터분석-주가데이터(2021시가총액)`을 FinanceDataReader 를 활용해 2022년 자료를 사용해 분석해 보자.
 
 참고:
-   - [데이터분석-주가데이터(2021시가총액)1-0.ipynb](notebooks/데이터분석-주가데이터(2021시가총액)1-0.ipynb)
-   - [데이터분석-주가데이터(2021시가총액)2-0.ipynb](notebooks/데이터분석-주가데이터(2021시가총액)2-0.ipynb)
+   - [데이터분석-주가데이터(2021시가총액)1-0.ipynb](notebooks/데이터분석-주가데이터(2021시가총액)1-0.ipynb)
+   - [데이터분석-주가데이터(2021시가총액)2-0.ipynb](notebooks/데이터분석-주가데이터(2021시가총액)2-0.ipynb)
    - [2-Pandas_Cookbook1-Indexing.ipynb](notebooks/2-Pandas_Cookbook1-Indexing.ipynb)
    - [2-Pandas_Cookbook2-group.ipynb](notebooks/2-Pandas_Cookbook2-group.ipynb)
 
