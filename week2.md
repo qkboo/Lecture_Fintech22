@@ -41,8 +41,8 @@
    - `교안2-20지도학습-소개(202208).pdf`(공유폴더)
        - [4-03지도-회귀.ipynb](notebooks/4-03지도-회귀.ipynb)
 
+---
 
-<!-- 
 # "과제"
 
 사용한 `데이터분석-주가데이터(2021시가총액)`을 FinanceDataReader 를 활용해 2022년 자료를 사용해 분석해 보자.
@@ -56,4 +56,3 @@
 FinanceDataReader 사용
    - 설치 및 사용: https://github.com/financedata-org/FinanceDataReader
    - 사용 설명서: https://financedata.github.io/posts/finance-data-reader-users-guide.html
--->
