@@ -48,7 +48,7 @@
 3. 데이터 활용 서비스 스터디
 
    - [2-Pandas_Cookbook1-Indexing.ipynb](notebooks/2-Pandas_Cookbook1-Indexing.ipynb)
-   - [2-Pandas_Cookbook2-group.ipynb](notebooks/2-Pandas_Cookbook2-group.ipynb)
+   - [2-Pandas_Cookbook2-group.ipynb](notebooks/2-Pandas_Cookbook2-group-0.ipynb)
 
 4. 시각화
 
