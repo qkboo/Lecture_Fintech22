@@ -1,9 +1,9 @@
 핀테크 서비스 개발을 위한 AI 프로젝트 부트업 과정
 
 
-# 3. 금융데이터와 인공지능
+<!-- # 3. 금융데이터와 인공지능
 
-## - 리뷰 & 시각화
+ ## - 리뷰 & 시각화
 
    - [Pandas_Cookbook1-Indexing.ipynb](notebooks/2-Pandas_Cookbook1-Indexing.ipynb)
    - [Pandas_Cookbook2-group.ipynb](notebooks/2-Pandas_Cookbook2-group.ipynb)
@@ -16,7 +16,7 @@
 공개 금융데이터 중에서 공시 데이터 활용 방법을 살펴본다.
 
  - [데이터분석-주가데이터-공시basic.ipynb](notebooks/데이터분석-주가데이터-공시basic-0.ipynb)
-
+-->
  
 # 4. 머신러닝
 <!--
