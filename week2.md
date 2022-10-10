@@ -39,20 +39,22 @@
        - [4-03머신러닝_학습이란.ipynb](notebooks/4-03머신러닝_학습이란.ipynb)     
 3. 지도학습
    - `교안2-20지도학습-소개(202208).pdf`(공유폴더)
-       - [4-03지도-회귀.ipynb](notebooks/4-03지도-회귀.ipynb)
-
+       - [4-10지도-회귀.ipynb](notebooks/4-10지도-회귀.ipynb)
+       
 ---
 
 # "과제"
 
 사용한 `데이터분석-주가데이터(2021시가총액)`을 FinanceDataReader 를 활용해 2022년 자료를 사용해 분석해 보자.
 
+- [데이터분석-주가데이터(fdr샘플).ipynb](notebooks/데이터분석-주가데이터(fdr샘플).ipynb)
+
+
 참고:
    - [데이터분석-주가데이터(2021시가총액)1-0.ipynb](notebooks/데이터분석-주가데이터(2021시가총액)1-0.ipynb)
    - [데이터분석-주가데이터(2021시가총액)2-0.ipynb](notebooks/데이터분석-주가데이터(2021시가총액)2-0.ipynb)
    - [2-Pandas_Cookbook1-Indexing.ipynb](notebooks/2-Pandas_Cookbook1-Indexing.ipynb)
    - [2-Pandas_Cookbook2-group.ipynb](notebooks/2-Pandas_Cookbook2-group.ipynb)
-
-FinanceDataReader 사용
-   - 설치 및 사용: https://github.com/financedata-org/FinanceDataReader
-   - 사용 설명서: https://financedata.github.io/posts/finance-data-reader-users-guide.html
+   - FinanceDataReader 사용
+      - 설치 및 사용: https://github.com/financedata-org/FinanceDataReader
+      - 사용 설명서: https://financedata.github.io/posts/finance-data-reader-users-guide.html
