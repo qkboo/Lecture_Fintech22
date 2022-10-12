@@ -43,7 +43,10 @@
 `교안2-20지도학습-소개(202208).pdf`(공유폴더)
 
 1. 회귀
+   - 정규화 회귀/규제
+        - 참조: https://chaelist.github.io/docs/ml_advanced/regularization/
    - [4-10지도-회귀.ipynb](notebooks/4-10지도-회귀.ipynb)
+   - 
 2. 스케일링
    - `교안2-40비지도학습(202208).pdf` (공유폴더)
    - [4-12피처엔지니어링-스케일링.ipynb](notebooks/4-12피처엔지니어링-스케일링.ipynb)
