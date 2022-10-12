@@ -41,10 +41,19 @@
    
    1. 회귀
       - [4-10지도-회귀.ipynb](notebooks/4-10지도-회귀.ipynb)
+   2. 스케일링
+      - `교안2-40비지도학습(202208).pdf` (공유폴더)
+      - 실습: [4-12피처엔지니어링-스케일링.ipynb](notebooks/4-12피처엔지니어링-스케일링.ipynb)
       - 실습: [4-10지도-회귀-smv,knn](notebooks/4-10지도-회귀-smv,knn.ipynb)
-   2. 분류
+   3. 분류
       - [분류-ex암데이터_분류.ipynb](notebooks/3-06-분류모델.ipynb)
       - [ex 분류](notebooks/3-07지도-분류문제ex1.ipynb)
+
+4. 트리 알고리즘:
+    1. [트리-결정트리](notebooks/4-02결정트리.ipynb)
+       - [ex 결정트리 - 숫자분류](notebooks/4-02결정트리ex-Digits.ipynb)
+    2. [트리-교차검증](notebooks/4-03교차검증_그리드서치.ipynb)
+    3. [트리-앙상블](notebooks/4-04앙상블.ipynb)
 
 <!-- 
 ---
