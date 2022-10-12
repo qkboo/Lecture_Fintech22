@@ -32,14 +32,21 @@
 
 1. 머신러닝 소개
    - `교안2-01신경망과_머신러닝.pdf` (공유폴더)
-       - [신경망과_MLP-0.ipynb](notebooks/4-02신경망과_MLP-0.ipynb)
+       - [신경망과_MLP-0.ipynb](notebooks/4-02신경망과_MLP-0.ipynb)
 2. 머신러닝 학습 소개
    - `교안2-02머신러닝-학습소개(202208).pdf` (공유폴더)
        - [4-03머신러닝_학습이란.ipynb](notebooks/4-03머신러닝_학습이란.ipynb)     
 3. 지도학습
    - `교안2-20지도학습-소개(202208).pdf`(공유폴더)
-       - [4-10지도-회귀.ipynb](notebooks/4-10지도-회귀.ipynb)
-       
+   
+   1. 회귀
+      - [4-10지도-회귀.ipynb](notebooks/4-10지도-회귀.ipynb)
+      - 실습: [4-10지도-회귀-smv,knn](notebooks/4-10지도-회귀-smv,knn.ipynb)
+   2. 분류
+      - [분류-ex암데이터_분류.ipynb](notebooks/3-06-분류모델.ipynb)
+      - [ex 분류](notebooks/3-07지도-분류문제ex1.ipynb)
+
+<!-- 
 ---
 
 # "과제"
@@ -57,3 +64,4 @@
    - FinanceDataReader 사용
       - 설치 및 사용: https://github.com/financedata-org/FinanceDataReader
       - 사용 설명서: https://financedata.github.io/posts/finance-data-reader-users-guide.html
+-->
