@@ -66,3 +66,14 @@ Week3
 2. Keras / Tensorflow 딥러닝
     - 텐서플로우와 케라스: `교안tf2-01Tensorflow와_Keras.(202202).pdf` (공유폴더)
     - [TensorFlow와 Keras 소개](notebooks/5-10Tensorflow_Keras1.ipynb)
+
+---
+
+
+## "과제"
+
+실습 노트북을 활용해 LinearRegressor, SVM, KNN Regressor 등을 이용해 다시 학습해 보세요.
+
+ - [고객연간지출액(회귀)](notebooks/분석-고객연간지출액(회귀).ipynb)
+      - Ecommerce Customers.csv
+ - [KNN 회귀](notebooks/4-10지도-회귀ex1-KNN-0.ipynb)
