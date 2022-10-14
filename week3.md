@@ -66,8 +66,8 @@ Week3
 2. Keras / Tensorflow 딥러닝
     - 텐서플로우와 케라스: `교안tf2-02Tensorflow와_Keras1.pdf` (공유폴더)
     - [TensorFlow와 Keras1 소개](notebooks/5-10Tensorflow_Keras1.ipynb)
-    - [TensorFlow와 Keras2 인공신경망](notebooks/5-10Tensorflow_Keras2_인공신경망.ipynb)
-    - [TensorFlow와 Keras3 심층신경망](notebooks/5-10Tensorflow_Keras3_심층신경망.ipynb)
+    - [TensorFlow와 Keras2인공신경망](notebooks/5-10Tensorflow_Keras2_인공신경망.ipynb)
+    - [TensorFlow와 Keras3심층신경망](notebooks/5-10Tensorflow_Keras3_심층신경망.ipynb)
 
 ---
 
