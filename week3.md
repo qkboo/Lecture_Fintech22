@@ -74,8 +74,10 @@ Week3
 
 ## "과제"
 
-실습 노트북을 활용해 LinearRegressor, SVM, KNN Regressor 등을 이용해 다시 학습해 보세요.
+1. 실습 노트북을 활용해 LinearRegressor, SVM, KNN Regressor 등을 이용해 다시 학습해 보세요.
+   - [고객연간지출액(회귀)](notebooks/분석-고객연간지출액(회귀).ipynb)
+       - Ecommerce Customers.csv
+   - [KNN 회귀](notebooks/4-10지도-회귀ex1-KNN-0.ipynb)
 
- - [고객연간지출액(회귀)](notebooks/분석-고객연간지출액(회귀).ipynb)
-      - Ecommerce Customers.csv
- - [KNN 회귀](notebooks/4-10지도-회귀ex1-KNN-0.ipynb)
+2. "실습" XGBoost/LightGBM을 gridsearchcv 이용해 파라메터 찾아 보세요!!!
+3. "실습" 암 데이터를 XGBoost/LightGBM 와 gridsearchcv 이용 학습해 보세요.
