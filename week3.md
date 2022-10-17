@@ -2,17 +2,6 @@
 
 Week3
 
-
-# "리뷰"
-
-<!-- 사용한 `데이터분석-주가데이터(2021시가총액)`을 FinanceDataReader 를 활용해 2022년 자료를 사용해 분석해 보자. -->
-
-## 실습: KNN 이용 회귀
- - 4-10지도-회귀ex1-KNN-0.ipynb
- - 실습 [분석-고객연간지출액(회귀)](notebooks/분석-고객연간지출액(회귀).ipynb)
-      - Ecommerce Customers.csv
-<br>
-
 # 4.  비즈니스 케이스 스터디
 
 ## - 트리와 앙상블:
@@ -37,13 +26,6 @@ Week3
 2. [비지도-주성분분석](notebooks/4-21비지도-주성분분석(cancer).ipynb)
 3. [비지도-KMeans 군집](notebooks/4-25비지도-군집(KMeans).ipynb)
 4. [비지도-이상탐지(급여 데이터 이상탐지)](notebooks/4-27비지도-이상탐지.ipynb)
-
-
-<!--
-1. [비지도-주성분분석 실습](notebooks/5-03비지도-주성분분석-교차.ipynb)
-1. [비지도-KMeans 군집](notebooks/5-04비지도-군집(KMeans).ipynb)
-1. [비지도-이상탐지](notebooks/5-05비지도-이상탐지.ipynb)
--->
 
 <br>
 
@@ -74,10 +56,12 @@ Week3
 
 ## "과제"
 
+
 1. 실습 노트북을 활용해 LinearRegressor, SVM, KNN Regressor 등을 이용해 다시 학습해 보세요.
    - [고객연간지출액(회귀)](notebooks/분석-고객연간지출액(회귀).ipynb)
        - Ecommerce Customers.csv
    - [KNN 회귀](notebooks/4-10지도-회귀ex1-KNN-0.ipynb)
-
 2. "실습" XGBoost/LightGBM을 gridsearchcv 이용해 파라메터 찾아 보세요!!!
 3. "실습" 암 데이터를 XGBoost/LightGBM 와 gridsearchcv 이용 학습해 보세요.
+<!-- 사용한 `데이터분석-주가데이터(2021시가총액)`을 FinanceDataReader 를 활용해 2022년 자료를 사용해 분석해 보자. -->
+4. 실습 [비지도-이상탐지(급여 데이터 이상탐지)](notebooks/4-27비지도-이상탐지.ipynb)
