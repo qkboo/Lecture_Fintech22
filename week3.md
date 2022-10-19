@@ -55,6 +55,12 @@ Week3
 3. `교안tf2-03-회귀분석(202209).pdf` (공유폴더)
    1. [TF 딥러닝-회귀.ipynb](notebooks/5-11TF2-회귀.ipynb)
    1. [TF 딥러닝-회귀ex_mpg](notebooks/5-11회귀ex-mpg.ipynb)
+
+
+4. 딥러닝 / 분류
+   1. [TF 딥러닝-분류(iris)](notebooks/51-03분류ex-다항(Iris).ipynb)
+
+
 ---
 
 
