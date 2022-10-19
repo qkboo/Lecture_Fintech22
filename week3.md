@@ -58,7 +58,7 @@ Week3
 
 
 4. 딥러닝 / 분류
-   1. [TF 딥러닝-분류(iris)](notebooks/51-03분류ex-다항(Iris).ipynb)
+   1. [TF 딥러닝-분류(iris)](notebooks/51-03분류ex-다항(Iris).ipynb)
 
 
 ---
