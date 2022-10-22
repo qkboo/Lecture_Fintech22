@@ -12,7 +12,7 @@ Week4: 인공지능 모델 기반 서비스 개발과정
    1. [TF - CNN](notebooks/5-20CNN1-new.ipynb)
    2. 참고: [합성곱 신경망 치트시트](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
-2. AutoEncoder 
+2. 비지도학습 AutoEncoder 
    - [분류-신용카드_이상탐지.ipynb](notebooks/5-12분류ex-신용카드이상탐지.ipynb)
    - data: `creditcard_fraud.zip` 분할 압축 파일
 
