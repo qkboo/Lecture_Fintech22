@@ -20,8 +20,8 @@ Week4: 인공지능 모델 기반 서비스 개발과정
 # 딥러닝: RNN
 
 1. RNN `교안tf2-20RNN(202201).pdf` (공유폴더)
-   1. [TF - RNN](notebooks/60-07RNN1.ipynb)
-   1. [TF - RNN-imdb](notebooks/60-07RNN4-imdb.ipynb)
-   1. [TF - RNN, LSTM](notebooks/60-07RNN-LTSM-more.ipynb)
+   1. [TF - RNN](notebooks/5-30RNN1.ipynb)
+<!--   1. [TF - RNN-imdb](notebooks/60-07RNN4-imdb.ipynb)
+   1. [TF - RNN, LSTM](notebooks/60-07RNN-LTSM-more.ipynb) -->
 
 
