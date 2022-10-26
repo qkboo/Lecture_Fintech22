@@ -24,7 +24,7 @@ Week4: 인공지능 모델 기반 서비스 개발과정
 
 
 # 비지도학습 AutoEncoder 
-   - [분류-신용카드_이상탐지.ipynb](notebooks/5-12분류ex-신용카드이상탐지.ipynb)
+   - [분류-신용카드_이상탐지.ipynb](notebooks/5-18비지도-신용카드이상탐지.ipynb)
    - data: `creditcard_fraud.zip` 분할 압축 파일
 
 
