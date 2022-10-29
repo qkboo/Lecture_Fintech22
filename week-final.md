@@ -19,6 +19,11 @@
 ## 2. 로보어드바이저 / 자산배분 전략 (참고,조사용)
  - 자료 링크 [RA-자산배분관련.ipynb](notebooks/P_RA-자산배분관련.ipynb)
 
+## 참고
+
+ - Model save & load: https://www.tensorflow.org/tutorials/keras/save_and_load?hl=ko
+ - Model history 저장: https://precommer.tistory.com/m/47
+
 <!--
 "해커톤" 시계열 데이터#1
 
